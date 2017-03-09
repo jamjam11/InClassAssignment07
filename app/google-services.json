@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "661988484834",
+    "firebase_url": "https://secret-245fe.firebaseio.com",
+    "project_id": "secret-245fe",
+    "storage_bucket": "secret-245fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661988484834:android:45ca3f2b8eaa3610",
+        "android_client_info": {
+          "package_name": "com.example.jamie.secret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661988484834-5k9h6g08pm9mcp21ljgb1ts3mvovrhvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jamie.secret",
+            "certificate_hash": "3d974260447a8aa26b418dd4c68234c1860784fb"
+          }
+        },
+        {
+          "client_id": "661988484834-bcfv479ssejb7q5mqphelrql69n37pdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5znlnwcsA3zcy_khEj0Ct5tpkru_b1dY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661988484834-bcfv479ssejb7q5mqphelrql69n37pdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
