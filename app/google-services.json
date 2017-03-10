@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "661988484834-k48abvrlrvb413620dhr688rc2g2vur5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jamie.secret",
+            "certificate_hash": "126bf9082d390a0283fd6c2dac2ac1d978fdb994"
+          }
+        },
+        {
           "client_id": "661988484834-5k9h6g08pm9mcp21ljgb1ts3mvovrhvg.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

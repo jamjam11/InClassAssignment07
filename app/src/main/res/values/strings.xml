@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Secret</string>
+    <string name="error_msg">Invalid entry</string>
 </resources>
